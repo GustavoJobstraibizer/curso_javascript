@@ -1,2 +1,2 @@
 # Curso de javascript
- > Curso Desevendando a linguagem javascript.
+ > Curso Desvendando a linguagem javascript.
