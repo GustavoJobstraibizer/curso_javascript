@@ -1,2 +1,2 @@
-# curso_javascript
-Curso Desevendando a linguagem javascript.
+# Curso de javascript
+ > Curso Desevendando a linguagem javascript.
